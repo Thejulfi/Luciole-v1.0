@@ -144,7 +144,6 @@ In this section you will find the extra stuffs concerning Luciole's board. It re
  ## My networks
  
  - Twitter: https://twitter.com/julfiofficial
- - Blog : http://weldybox.com/
  - Youtube channel : https://www.youtube.com/channel/UCTNOaG1svq1xgBzBOvLj6vw?view_as=subscriber
  
  ## Support me
